@@ -1,0 +1,15 @@
+.edi-button{
+    margin-top:1em;
+    display: inline;
+    
+}
+.edi-progress{
+    margin-top:1em;
+    display: block;
+}
+.form-select-container{
+    /* border: 1px solid white; */
+    /* padding: 1em; */
+    /* margin-left: 3em; */
+    margin-top:5em;
+}
